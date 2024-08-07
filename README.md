@@ -12,7 +12,7 @@ npm i -D vite-plugin-socket-io
 ```js
 // vite.config.js
 
-import vitePluginSocketIO from 'vite-plugin-socket.io'
+import vitePluginSocketIO from 'vite-plugin-socket-io'
 import { defineConfig } from 'vite';
 
 export default defineConfig({
